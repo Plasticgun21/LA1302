@@ -46,7 +46,7 @@ Dieses Projekt ist eine Website wessen ein interaktives Quiz hat.
 
 ### 1.4 Diagramme
 
-![image]![Screenshot 2024-01-04 135230](https://github.com/Plasticgun21/LA1302/assets/110892742/d92034ff-d3f4-4391-ba83-5456e7cd35e9)
+![Screenshot 2024-01-04 135230](https://github.com/Plasticgun21/LA1302/assets/110892742/d92034ff-d3f4-4391-ba83-5456e7cd35e9)
 
 
 ## 2 Planen
