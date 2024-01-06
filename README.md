@@ -71,15 +71,12 @@ Ich habe mir entschieden alle mein Projekt so zu machen wie beschrieben.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 5.   |25.8.23| Luca.J.W  |       30 min  |          30 min   |
-| 6.   |25.8.23| Luca.J.W  |       30 min  |          35 min   |
-| 7.   |25.8.23| Luca.J.W  |       20 min  |          30 min   |
-| 8.   |25.8.23| Luca.J.W  |       20 min  |          25 min   |
-| 9.   |25.8.23| Luca.J.W  |       20 min  |          20 min   |
-| 10.  |25.8.23| Luca.J.W  |       45 min  |          50 min   |
-| 11.  |1.9.23 | Luca.J.W  |       30 min  |          30 min   |
-| 12.  |1.9.23 | Luca.J.W  |       60 min  |          90 min   |
-| 13.  |1.9.23 | Luca.J.W  |       90 min  |          30 min   |
+| 5.   |22.11.23| Luca.J.W  |       45 min  |          40 min   |
+| 6.   |22/29.11.23| Luca.J.W  |       180 min  |          360 min   |
+| 7.   |06.12.23| Luca.J.W  |       45 min  |          30 min   |
+| 8.   |06.12.23| Luca.J.W  |       20 min  |          20 min   |
+| 9.   |06.12.23| Luca.J.W  |       20 min  |          20 min   |
+
 
 
 ## 5 Kontrollieren
