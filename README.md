@@ -50,26 +50,22 @@ Dieses Projekt ist eine Website wessen ein interaktives Quiz hat.
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1. | muss | Luca.J.W | Arbeitspakete | 20 min |
 | 2. | muss | Luca.J.W | Testfälle | 30 min |
-| 3. | muss | Luca.J.W | PAP-Diagramm | 45 min |
-| 4. | muss | Luca.J.W | Zeitplanung | 20 min |
-| 5. | muss | Luca.J.W | Anforderung 1 | 30 min |
-| 6. | muss | Luca.J.W | Anforderung 2 | 30 min |
-| 7. | muss | Luca.J.W | Anforderung 3a | 20 min |
-| 8. | muss | Luca.J.W | Anforderung 3b | 20 min |
-| 9. | muss | Luca.J.W | Anforderung 3c | 20 min |
-| 10. | muss | Luca.J.W | Anforderung 4 | 45 min |
-| 11. | muss | Luca.J.W | Anforderung 5 | 30 min |
-| 12. | kann | Luca.J.W | Highscore liste | 60 min |
-| 13. | kann | Luca.J.W | Zweispielermodus | 90 min |
-| 14. | muss | Luca.J.W | Testfallspezifikation | 20 min |
-| 15. | muss | Luca.J.W | Testfallbericht | 20 min |
-| 16. | muss | Luca.J.W | Portfolio | 120 min |
-Total: 640 min
+| 3. | muss | Luca.J.W | Usecase Diagramm | 10 min |
+| 4. | muss | Luca.J.W | Planen | 20 min |
+| 5. | muss | Luca.J.W | Wilkommensseite machen | 45 min |
+| 6. | muss | Luca.J.W | Quiz machen mit JS | 180 min |
+| 7. | muss | Luca.J.W | Quiz fragen und antworten erstellen | 45 min |
+| 8. | muss | Luca.J.W | Konataktseite machen | 20 min |
+| 9. | muss | Luca.J.W | Überunsseite machen | 20 min |
+| 10. | muss | Luca.J.W | Testfallspezifikation | 20 min |
+| 11. | muss | Luca.J.W | Testfallbericht | 20 min |
+| 12. | muss | Luca.J.W | Portfolio | 120 min |
+Total: 510 min
 
 
 ## 3 Entscheiden
 
-Ich habe mir entschieden alle Arbeitspakette zu machen.
+Ich habe mir entschieden alle mein Projekt so zu machen wie beschrieben.
 
 ## 4 Realisieren
 
