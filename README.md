@@ -81,12 +81,14 @@ Ich habe mir entschieden alle mein Projekt so zu machen wie beschrieben.
 
 ## 5 Kontrollieren
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.   |8.9.23 |funktioniert|Luca.J.W|
-| 2.   |8.9.23 |funktioniert|Luca.J.W|
-| 3.   |8.9.23 |funktioniert|Luca.J.W|
-| 4.   |8.9.23 |funktioniert|Luca.J.W|
-| 5.   |8.9.23 |funktioniert|Luca.J.W|
-| 6.   |8.9.23 |funktioniert aber Highscore hat manchmal Probleme|Luca.J.W|
-| 7.   |8.9.23 |funktioniert|Luca.J.W|
+| Test-Nr. |Testfall-Nr.| Datum | Resultat | Tester |
+| ---- |---- | ----- | -------- | ------ |
+| 1.1.1 |1.1|13.12.23 |funktioniert|Luca.J.W|
+| 2.1.1 |2.1|13.12.23 |funktioniert|Luca.J.W|
+| 3.1.1 |3.1|13.12.23 |funktioniert|Luca.J.W|
+| 3.2.1 |3.2|13.12.23 |funktioniert|Luca.J.W|
+| 3.3.1 |3.3|13.12.23 |funktioniert|Luca.J.W|
+| 3.4.1 |3.4|13.12.23 |funktioniert|Luca.J.W|
+| 3.5.1 |3.5|13.12.23 |funktioniert|Luca.J.W|
+| 4.1.1 |4.1|13.12.23 |funktioniert|Luca.J.W|
+| 5.1.1 |5.1|13.12.23 |funktioniert|Luca.J.W|
