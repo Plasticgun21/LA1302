@@ -30,16 +30,11 @@ Dieses Projekt ist eine Website wessen ein interaktives Quiz hat.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Die Website läuft. | Link gedrückt oder eingegeben. | Website öffnet sich und man kommt auf der Wilkommensseite. |
 | 2.1  | Die Website ist offen und man ist auf der Wilkommensseite. | Mausklick auf Quiz. | Quizseite öffnet sich. |
-| 3.1  | Die Website ist offen, die Quizseite ist offen und die erste Frage ist offen.  | Tipt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
-| 3.2  | Die Website ist offen, die Quizseite ist offen und die zweite Frage ist offen.  | Tipt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
-| 3.3  | Die Website ist offen, die Quizseite ist offen und die dritte Frage ist offen.  | Tipt die Falsche Antwort auf der Website. | "Falsch" und zeigt die nächste Frage. |
-| 3.4  | Die Website ist offen, die Quizseite ist offen und die vierte Frage ist offen.  | Tipt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
-| 3.5  | Die Website ist offen, die Quizseite ist offen und die fünfte Frage ist offen.  | Tipt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
-| 3.6  | Die Website ist offen, die Quizseite ist offen und die sechste Frage ist offen.  | Tipt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
-| 3.7  | Die Website ist offen, die Quizseite ist offen und die siebte Frage ist offen.  | Tipt die Falsche Antwort auf der Website. | "Falsch" und zeigt die nächste Frage. |
-| 3.8  | Die Website ist offen, die Quizseite ist offen und die achte Frage ist offen.  | Tipt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
-| 3.9  | Die Website ist offen, die Quizseite ist offen und die neunte Frage ist offen.  | Tipt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
-| 3.10  | Die Website ist offen, die Quizseite ist offen und die zehnte Frage ist offen.  | Tipt die Falsche Antwort auf der Website. | "Falsch" und zeigt wie viel man Richtig hatte. |
+| 3.1  | Die Website ist offen, die Quizseite ist offen und die erste Frage ist offen.   | Drückt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
+| 3.2  | Die Website ist offen, die Quizseite ist offen und die zweite Frage ist offen.  | Drückt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
+| 3.3  | Die Website ist offen, die Quizseite ist offen und die dritte Frage ist offen.  | Drückt die Falsche Antwort auf der Website. | "Falsch" und zeigt die nächste Frage. |
+| 3.4  | Die Website ist offen, die Quizseite ist offen und die vierte Frage ist offen.  | Drückt die Richtige Antwort auf der Website. | "Richtig" und zeigt die nächste Frage. |
+| 3.5  | Die Website ist offen, die Quizseite ist offen und die zehnte Frage ist offen.  | Drückt die Falsche Antwort auf der Website. | "Falsch" und zeigt wie viel man Richtig hatte. |
 | 4.1  | Die Website läuft und man ist auf der Quizseite | Linksklick auf Kontakt. | Kontaktseite öffnet sich. |
 | 5.1  | Die Website läuft und man ist auf der Kontaktseite. | Limksklick auf überuns | Überunsseite öffnet sich. |
 
