@@ -18,7 +18,7 @@ Dieses Projekt ist eine Website wessen ein interaktives Quiz hat.
 | 4.| kann | Qualitativ | Die Website hat eine Kontakt-seite. |
 | 5.| kann | Qualitativ | Die Website hat eine Überuns-seite |
 | 6.| muss | Funktional | Die Fragen haben Antworten. |
-| 7.| kann | Qualitativ | Das Quiz besitzt mindestens zehn Fragen mit Antworten. |
+| 7.| kann | Qualitativ | Das Quiz besitzt mindestens fünf Fragen mit Antworten. |
 | 8.| muss | Randbedingung | Das Quiz ist mit hilfe von Javascript erstellt worden. |
 | 9.| kann | Randbedingung | Die Website sieht schön aus. |
 | 10.| muss | Randbedingung | Die Website läuft und ist mit einem Link ereichbar. |
